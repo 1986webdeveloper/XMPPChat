@@ -1,2 +1,2 @@
 # XMPPChat
-This example is about one to one chat using XMPP.
+This an android app example about one to one chat using XMPP.
