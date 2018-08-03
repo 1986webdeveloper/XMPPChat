@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/076707da8836d8bbabe57ce831855717/AndroidManifest.xml:2:1-17:12
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/131a53bcdd31a2b3859ce2b238928834/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1a990080f0c4f28404b83b8efe684d72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b8ba319ea23fa8a23c545f9943e062e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c7dc61066042c6a2a377cb89ab4b1923/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0d33b920aef1397dd438383610bc89e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/93a14dca3e3bdb6831d50cf67c683ab4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/efa5ec93d2bf209d68529aa61bbc599a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/741d102dbd49aac7adc8ff3d98d90e2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3e3ac9e94ccc8ff2d3bcc58ff696e734/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/70d54ffd03b24fb75ebefd4717eed867/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d3ee2af68e89e8f21cd6fbbeae73dc79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d9036232c0fc2d62f9227134de6f5bca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/61a70a4203bae7e48860f687a102eac1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/52c4d46f273f88f685aae68064715251/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/6ed80047d845857c2656746a7a5388eb/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50654aef5e6d91a7d03e12fcecb4461a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/713075a79750918a2d0cae5a95cd2126/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/67d58780a03f656e31d01aebaaa5546c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3e450d481d922dab825bef614161db15/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:7:5-31:19
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/076707da8836d8bbabe57ce831855717/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/076707da8836d8bbabe57ce831855717/AndroidManifest.xml:11:5-15:19
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/131a53bcdd31a2b3859ce2b238928834/AndroidManifest.xml:11:5-12:19
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/131a53bcdd31a2b3859ce2b238928834/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c7dc61066042c6a2a377cb89ab4b1923/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c7dc61066042c6a2a377cb89ab4b1923/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/6ed80047d845857c2656746a7a5388eb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/6ed80047d845857c2656746a7a5388eb/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:8:9-36
+activity#com.example.acquaint.xmppappdemo.activity.Login
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:15:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:19:27-74
+service#com.example.acquaint.xmppappdemo.connectionService.XmppConnectionService
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:23:9-76
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:23:18-73
+activity#com.example.acquaint.xmppappdemo.activity.ContactListActivity
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:25:9-28:58
+	android:label
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:27:13-64
+	android:theme
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:26:13-57
+activity#com.example.acquaint.xmppappdemo.activity.ChatActivity
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:29:19-56
+activity#com.example.acquaint.xmppappdemo.activity.RegisterActivity
+ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:30:9-63
+	android:name
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml:30:19-60
+uses-sdk
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/076707da8836d8bbabe57ce831855717/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/076707da8836d8bbabe57ce831855717/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/131a53bcdd31a2b3859ce2b238928834/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/131a53bcdd31a2b3859ce2b238928834/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1a990080f0c4f28404b83b8efe684d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1a990080f0c4f28404b83b8efe684d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b8ba319ea23fa8a23c545f9943e062e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b8ba319ea23fa8a23c545f9943e062e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c7dc61066042c6a2a377cb89ab4b1923/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c7dc61066042c6a2a377cb89ab4b1923/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0d33b920aef1397dd438383610bc89e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0d33b920aef1397dd438383610bc89e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/93a14dca3e3bdb6831d50cf67c683ab4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/93a14dca3e3bdb6831d50cf67c683ab4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/efa5ec93d2bf209d68529aa61bbc599a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/efa5ec93d2bf209d68529aa61bbc599a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/741d102dbd49aac7adc8ff3d98d90e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/741d102dbd49aac7adc8ff3d98d90e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3e3ac9e94ccc8ff2d3bcc58ff696e734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3e3ac9e94ccc8ff2d3bcc58ff696e734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/70d54ffd03b24fb75ebefd4717eed867/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/70d54ffd03b24fb75ebefd4717eed867/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d3ee2af68e89e8f21cd6fbbeae73dc79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d3ee2af68e89e8f21cd6fbbeae73dc79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d9036232c0fc2d62f9227134de6f5bca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d9036232c0fc2d62f9227134de6f5bca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/61a70a4203bae7e48860f687a102eac1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/61a70a4203bae7e48860f687a102eac1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/52c4d46f273f88f685aae68064715251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/52c4d46f273f88f685aae68064715251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/6ed80047d845857c2656746a7a5388eb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/6ed80047d845857c2656746a7a5388eb/AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50654aef5e6d91a7d03e12fcecb4461a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50654aef5e6d91a7d03e12fcecb4461a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/713075a79750918a2d0cae5a95cd2126/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/713075a79750918a2d0cae5a95cd2126/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/67d58780a03f656e31d01aebaaa5546c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/67d58780a03f656e31d01aebaaa5546c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3e450d481d922dab825bef614161db15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3e450d481d922dab825bef614161db15/AndroidManifest.xml:20:5-44
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/acquaint/Desktop/xmppDemo/app/src/main/AndroidManifest.xml
