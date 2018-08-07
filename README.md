@@ -10,7 +10,7 @@ To use the demo readily, import the project in your IDE and apply the following 
 In 	strings.xml replace “DomainName” with your domain name and 	“xxx.xxx.x.xx” 	with your IP Address.
 
  <string name="txt_domain_name">DomainName</string>
-<string name="txt_server_address">xxx.xxx.x.xx</string>`
+<string name="txt_server_address">xxx.xxx.x.xx</string>
 
 To make this demo run, we need to install Open Fire server.
 
@@ -58,17 +58,18 @@ Step 8.1: Select language for the server and click continue.
 Step 8.2: In the next screen, we can see our domain name in this screen. Note the domain name as it will be required while setting up the client. Click continue.
 
 
-Step 8.2 In the next screen, we can configure our database settings.Here embedded database is selected. Click continue after selecting database. database. After selecting and configuring the database, click on continue.
-Step 8.3: The next screen we will see is profile setting screen. Here, we can save our profile as either admin or user. Currently, we have selected default. Click on continue after selecting profile settings to create the admin access.
+Step 8.3 In the next screen, we can configure our database settings.Here embedded database is selected. Click continue after selecting database. database. After selecting and configuring the database, click on continue.
+
+Step 8.4: The next screen we will see is profile setting screen. Here, we can save our profile as either admin or user. Currently, we have selected default. Click on continue after selecting profile settings to create the admin access.
 Here we will be asked to set the password for admin access. Admin name will be “admin” by default.
 
 
-Step 8.4: After setting password, we will be asked to login as admin to see server data. Click on Login. A new screen will appear which will ask you to enter admin Id and Password.
+Step 8.5: After setting password, we will be asked to login as admin to see server data. Click on Login. A new screen will appear which will ask you to enter admin Id and Password.
 
 Note: Your first time login will fail. So don’t Worry!! Refresh!! Enter your Id and Password again and you are on your way!!
 
 
-Step 8.5: After successful login, we can view the admin panel of our Openfire server.
+Step 8.6: After successful login, we can view the admin panel of our Openfire server.
 
 
 Kudos!! We have configured our own Openfire server!!
