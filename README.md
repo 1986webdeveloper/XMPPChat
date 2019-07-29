@@ -18,7 +18,7 @@ To make this demo run, we need to install Open Fire server.
 To install Open Fire Server please follow the steps described below:
 
 
-Step 1: Download the server setup from here 
+Step 1: Download the server setup from  <a href="https://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_4_4_0.tar.gz">here </a> 
 
 Step 2: Copy the downloaded zip file to the location where we want to setup the server.
 
