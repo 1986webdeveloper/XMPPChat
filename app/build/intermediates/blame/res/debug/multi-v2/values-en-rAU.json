@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/acquaint/Desktop/xmppDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/home/acquaint/1986webdeveloper/XMPPChat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/52c4d46f273f88f685aae68064715251/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bb24fce708b662dc650bfc9ea8c954b/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b8ba319ea23fa8a23c545f9943e062e3/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b64bab0bee9aa4c71a9a292a82cdd88/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

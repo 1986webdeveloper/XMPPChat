@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/acquaint/Desktop/xmppDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/home/acquaint/1986webdeveloper/XMPPChat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1a990080f0c4f28404b83b8efe684d72/res/values-land/values-land.xml",
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6a307b8881fd81155a7de9f3ddf6b181/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b8ba319ea23fa8a23c545f9943e062e3/res/values-land/values-land.xml",
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b64bab0bee9aa4c71a9a292a82cdd88/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

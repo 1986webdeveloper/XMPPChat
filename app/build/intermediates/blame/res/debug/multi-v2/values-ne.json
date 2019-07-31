@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/acquaint/Desktop/xmppDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
+            "outputFile": "/home/acquaint/1986webdeveloper/XMPPChat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
             "map": [
                 {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/52c4d46f273f88f685aae68064715251/res/values-ne/values-ne.xml",
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b64bab0bee9aa4c71a9a292a82cdd88/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,314,422,513,620,747,841,931,1019,1129,1245,1348,1463,1565,1680,1851,1963",
+                        "endColumns": "104,103,107,90,106,126,93,89,87,109,115,102,114,101,114,170,111,85",
+                        "endOffsets": "205,309,417,508,615,742,836,926,1014,1124,1240,1343,1458,1560,1675,1846,1958,2044"
+                    }
+                },
+                {
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bb24fce708b662dc650bfc9ea8c954b/res/values-ne/values-ne.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "2049",
                         "endColumns": "100",
                         "endOffsets": "2145"
-                    }
-                },
-                {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b8ba319ea23fa8a23c545f9943e062e3/res/values-ne/values-ne.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,210,314,422,513,620,747,841,931,1019,1129,1245,1348,1463,1565,1680,1851,1963",
-                        "endColumns": "104,103,107,90,106,126,93,89,87,109,115,102,114,101,114,170,111,85",
-                        "endOffsets": "205,309,417,508,615,742,836,926,1014,1124,1240,1343,1458,1560,1675,1846,1958,2044"
                     }
                 }
             ]

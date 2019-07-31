@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/acquaint/Desktop/xmppDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "outputFile": "/home/acquaint/1986webdeveloper/XMPPChat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/52c4d46f273f88f685aae68064715251/res/values-da/values-da.xml",
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b64bab0bee9aa4c71a9a292a82cdd88/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
+                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
+                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
+                    }
+                },
+                {
+                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bb24fce708b662dc650bfc9ea8c954b/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1907",
                         "endColumns": "100",
                         "endOffsets": "2003"
-                    }
-                },
-                {
-                    "source": "/home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b8ba319ea23fa8a23c545f9943e062e3/res/values-da/values-da.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
-                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
-                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
                     }
                 }
             ]

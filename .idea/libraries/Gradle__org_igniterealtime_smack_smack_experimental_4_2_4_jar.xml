@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-experimental:4.2.4@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-experimental/4.2.4/d1e954ad655257f659a94d7ff662cef72dee9bf6/smack-experimental-4.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-experimental/4.2.4/44436541ebd0338933d68b42f4a395576ab5ca0c/smack-experimental-4.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
