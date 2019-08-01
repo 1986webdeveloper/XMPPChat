@@ -13,16 +13,16 @@ import retrofit2.http.POST;
 import retrofit2.http.Path;
 
 public interface ApiInterface {
-    @Headers({"Authorization:N0bhJy4qNgjRa6Jy", "Content-Type: application/json", "Accept: application/json"})
+    @Headers({"Authorization:vA0CFcOI6tXGORAd", "Content-Type: application/json", "Accept: application/json"})
     @GET("plugins/restapi/v1/users")
     Call<UserResponse> getContactList();
 
 
-    @Headers({"Authorization:N0bhJy4qNgjRa6Jy", "Content-Type: application/json", "Accept: application/json"})
+    @Headers({"Authorization:vA0CFcOI6tXGORAd", "Content-Type: application/json", "Accept: application/json"})
     @GET("plugins/restapi/v1/users/{username}/groups")
     Call<GroupResponse> getUserGroup(@Path("username") String username);
 
-    @Headers({"Authorization:N0bhJy4qNgjRa6Jy", "Content-Type: application/json", "Accept: application/json"})
+    @Headers({"Authorization:vA0CFcOI6tXGORAd", "Content-Type: application/json", "Accept: application/json"})
     @POST("plugins/restapi/v1/users")
     Call<ResponseBody> registerUser(@Body RegisterRequestResponse registerRequestResponse);
 

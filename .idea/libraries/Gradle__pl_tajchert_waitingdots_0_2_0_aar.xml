@@ -1,10 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: pl.tajchert:waitingdots:0.2.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/596b0e3da6681b7ae85e883227cfcd73/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/596b0e3da6681b7ae85e883227cfcd73/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e62d9b3e8764b2682e63d441b9076eac/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e62d9b3e8764b2682e63d441b9076eac/res" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.tajchert/waitingdots/0.2.0/3f6b508d48598b3da61032f7c98db5f6965c9cf2/waitingdots-0.2.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

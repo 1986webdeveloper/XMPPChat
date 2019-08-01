@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Jul 29 12:54:14 IST 2019
+#Thu Aug 01 12:56:27 IST 2019
 0.baseType=DIRECTORY
-0.base=/home/acquaint/1986webdeveloper/XMPPChat/app/build/intermediates/transforms/dexMerger/debug/0
+0.base=/home/acquaint/1986webdeveloper/XMPPChat/app/build/intermediates/dex/debug/mergeDexDebug/out
 0.path=classes.dex
 0.set=DEX
 count=1

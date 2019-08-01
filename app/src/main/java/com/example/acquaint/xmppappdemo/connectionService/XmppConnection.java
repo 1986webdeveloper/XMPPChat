@@ -28,6 +28,10 @@ import org.jxmpp.jid.impl.JidCreate;
 import org.jxmpp.stringprep.XmppStringprepException;
 
 import java.io.IOException;
+import java.net.InetAddress;
+
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLSession;
 
 public class XmppConnection {
 
@@ -115,7 +119,13 @@ public class XmppConnection {
      * @throws SmackException
      */
     public void connect() throws IOException, XMPPException, SmackException {
-
+        InetAddress addr = InetAddress.getByName("192.168.1.44");
+        HostnameVerifier verifier = new HostnameVerifier() {
+            @Override
+            public boolean verify(String hostname, SSLSession session) {
+                return false;
+            }
+        };
         XMPPTCPConnectionConfiguration conf = XMPPTCPConnectionConfiguration.builder()
                 .setXmppDomain(mApplicationContext.getString(R.string.txt_domain_name)) // name of the domain
                 .setHost(mApplicationContext.getString(R.string.txt_server_address)) // address of the server
@@ -123,6 +133,9 @@ public class XmppConnection {
                 .setPort(5222) // static port number to connect
                 .setKeystoreType(null) //To avoid authentication problem. Not recommended for production build
                 .setSecurityMode(ConnectionConfiguration.SecurityMode.disabled)
+                .setHostnameVerifier(verifier)
+                .setHostAddress(addr)
+                .setDebuggerEnabled(true)
                 .setCompressionEnabled(true).build();
 
         //Set up the ui thread broadcast message receiver.

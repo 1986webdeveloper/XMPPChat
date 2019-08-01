@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">XmppAppDemo</string>
     <string name="txt_domain_name">acquaint</string>
-    <string name="txt_server_address">192.168.1.10</string>
+    <string name="txt_server_address">192.168.1.44</string>
     <string name="txt_resource">Mobile</string>
     <string name="title_activity_contact_list">ContactListActivity</string>
     <string name="tab_text_1">Tab 1</string>

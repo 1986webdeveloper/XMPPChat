@@ -1,43 +1,58 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
-MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/aba965bf9e4d7fa78391f8f1206a0b4d/AndroidManifest.xml:2:1-17:12
-MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/596b0e3da6681b7ae85e883227cfcd73/AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:design:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6a307b8881fd81155a7de9f3ddf6b181/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b64bab0bee9aa4c71a9a292a82cdd88/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d7fc3d1416d9144d25f42b2c972d7b48/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7c93b4da5ffc974a8dd9f98e6fd33256/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2a6835d1032053f51f9fbd80f685e451/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f2dc36df13b18eec7b248a17b452ebf/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f994390c43e1a548ffd59cf20d2c98ab/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a5665baa82df22ba4573ee2566041667/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/84d7823cb43f0fe6d8310e6fa296c2aa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/51c043fcea37cc48eb1050c8d1454ed6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/de44b327eed4ee851ff95b87fa646be9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ea1140c48d53ea9dd6352995eb20fdd9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bb24fce708b662dc650bfc9ea8c954b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/9e9e22f6a08f4aaf9e165b497d61b4ad/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7100f7a88d77d55571bcfdd28367e815/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/30e46ecd6f603f380a05b15a6cba4766/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10dba7b4c381e2a129d8e60b63701135/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bf21789bc0dc89a4d65b0d71157cbc2f/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4cd91618643cd579bdcf1e632dc38e71/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ce1f2209e33349be3221b5b66ccef014/AndroidManifest.xml:17:1-24:12
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e62d9b3e8764b2682e63d441b9076eac/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e31dbf7d8d6ba052329cbb99ede19e12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/42374ecb3c6b215c7cca6edfe3b46266/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/5f66b318a6335dd9e3160faa80c9aae5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/14e0b761751cf4f58e6f96e6a5d59f89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ff21cec29d241fe143e3cc2de1139b21/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b705688a1af7c74d5bfe6c87033328d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/f8966dbc191180b66fd44e188308f687/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b70e198fb260f6363977b1da0519968d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ba3b4a5e2d204320a713610830e9c278/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ee34fee8b0d59022bd55caae592797aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/bcf12381d9243ac92f9aa47dbc79a4cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/906ab6c97a18df4747f7a503d7a7c05e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/bfbf99ba82c53d056929d89f02fdf758/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/027a2602d0f236424ec3231cbd97d306/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e0cc67c6d3277b313add82be1cabb012/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/92654f165dd35c2c0058a3d232f59246/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/143236ffab1502aaa47afcd7348deebe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/2701207b8369bb2e726d54d950026dce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b5c65a8150199656402210efa3cf86d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/7cc2a0853b97393d8dbcee2e23ccb255/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b82fc68fddd6b65d18c8c9ac2b7da3df/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/c8c0601d324287752ab1c9d487c8f365/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/857181a4424ab7b2415d04f470f1f1af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/1d0f94d03864fbeddea63926ccee8356/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/5a73c538905523491176ae25fea006b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/3371ae22972327017f36128f7f230664/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/d9bacb38e1ccd8e7ea5ebb42fca69b88/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4bb5919a9efe247ef1b7cbec20b1adc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/d23b9448cea0945f4b6a215ad958adc8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/a7a58704c15b8b7611ac38d42e27410e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/88873a437043a28c22a227a5bc3fe053/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/a4e3a175ffdea8ecef850c11ee905105/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
 		INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:2:11-69
@@ -46,15 +61,21 @@ ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest
 	android:name
 		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:7:5-31:19
-MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/aba965bf9e4d7fa78391f8f1206a0b4d/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/aba965bf9e4d7fa78391f8f1206a0b4d/AndroidManifest.xml:11:5-15:19
-MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/596b0e3da6681b7ae85e883227cfcd73/AndroidManifest.xml:11:5-12:19
-MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/596b0e3da6681b7ae85e883227cfcd73/AndroidManifest.xml:11:5-12:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d7fc3d1416d9144d25f42b2c972d7b48/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d7fc3d1416d9144d25f42b2c972d7b48/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/9e9e22f6a08f4aaf9e165b497d61b4ad/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/9e9e22f6a08f4aaf9e165b497d61b4ad/AndroidManifest.xml:22:5-20
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:7:5-32:19
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4cd91618643cd579bdcf1e632dc38e71/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4cd91618643cd579bdcf1e632dc38e71/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ce1f2209e33349be3221b5b66ccef014/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ce1f2209e33349be3221b5b66ccef014/AndroidManifest.xml:22:5-20
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e62d9b3e8764b2682e63d441b9076eac/AndroidManifest.xml:11:5-12:19
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e62d9b3e8764b2682e63d441b9076eac/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/42374ecb3c6b215c7cca6edfe3b46266/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/42374ecb3c6b215c7cca6edfe3b46266/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/7cc2a0853b97393d8dbcee2e23ccb255/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/7cc2a0853b97393d8dbcee2e23ccb255/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b82fc68fddd6b65d18c8c9ac2b7da3df/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b82fc68fddd6b65d18c8c9ac2b7da3df/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/7cc2a0853b97393d8dbcee2e23ccb255/AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
@@ -66,87 +87,119 @@ MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/cach
 	android:allowBackup
 		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:15:9-40
+	android:networkSecurityConfig
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:14:9-69
 	android:name
 		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:8:9-36
 activity#com.example.acquaint.xmppappdemo.activity.Login
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:15:19-49
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:16:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:20:27-74
 service#com.example.acquaint.xmppappdemo.connectionService.XmppConnectionService
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:23:9-76
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:24:9-76
 	android:name
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:23:18-73
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:24:18-73
 activity#com.example.acquaint.xmppappdemo.activity.ContactListActivity
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:25:9-28:58
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:26:9-29:58
 	android:label
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:27:13-64
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:28:13-64
 	android:theme
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:28:13-56
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:29:13-56
 	android:name
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:26:13-57
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:27:13-57
 activity#com.example.acquaint.xmppappdemo.activity.ChatActivity
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:29:9-59
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:30:9-59
 	android:name
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:29:19-56
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:30:19-56
 activity#com.example.acquaint.xmppappdemo.activity.RegisterActivity
-ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:30:9-63
+ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:31:9-63
 	android:name
-		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:30:19-60
+		ADDED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml:31:19-60
 uses-sdk
 INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
 INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
-MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/aba965bf9e4d7fa78391f8f1206a0b4d/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-1/files-1.1/android-chat-ui-v0.1.3.aar/aba965bf9e4d7fa78391f8f1206a0b4d/AndroidManifest.xml:7:5-9:41
-MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/596b0e3da6681b7ae85e883227cfcd73/AndroidManifest.xml:7:5-9:41
-MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/waitingdots-0.2.0.aar/596b0e3da6681b7ae85e883227cfcd73/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6a307b8881fd81155a7de9f3ddf6b181/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6a307b8881fd81155a7de9f3ddf6b181/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b64bab0bee9aa4c71a9a292a82cdd88/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b64bab0bee9aa4c71a9a292a82cdd88/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d7fc3d1416d9144d25f42b2c972d7b48/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/acquaint/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d7fc3d1416d9144d25f42b2c972d7b48/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7c93b4da5ffc974a8dd9f98e6fd33256/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7c93b4da5ffc974a8dd9f98e6fd33256/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2a6835d1032053f51f9fbd80f685e451/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2a6835d1032053f51f9fbd80f685e451/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f2dc36df13b18eec7b248a17b452ebf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f2dc36df13b18eec7b248a17b452ebf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f994390c43e1a548ffd59cf20d2c98ab/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f994390c43e1a548ffd59cf20d2c98ab/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a5665baa82df22ba4573ee2566041667/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a5665baa82df22ba4573ee2566041667/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/84d7823cb43f0fe6d8310e6fa296c2aa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/84d7823cb43f0fe6d8310e6fa296c2aa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/51c043fcea37cc48eb1050c8d1454ed6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/51c043fcea37cc48eb1050c8d1454ed6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/de44b327eed4ee851ff95b87fa646be9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/de44b327eed4ee851ff95b87fa646be9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ea1140c48d53ea9dd6352995eb20fdd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ea1140c48d53ea9dd6352995eb20fdd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bb24fce708b662dc650bfc9ea8c954b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/acquaint/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bb24fce708b662dc650bfc9ea8c954b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/9e9e22f6a08f4aaf9e165b497d61b4ad/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/9e9e22f6a08f4aaf9e165b497d61b4ad/AndroidManifest.xml:20:5-43
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7100f7a88d77d55571bcfdd28367e815/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7100f7a88d77d55571bcfdd28367e815/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/30e46ecd6f603f380a05b15a6cba4766/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/30e46ecd6f603f380a05b15a6cba4766/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10dba7b4c381e2a129d8e60b63701135/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10dba7b4c381e2a129d8e60b63701135/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bf21789bc0dc89a4d65b0d71157cbc2f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/acquaint/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bf21789bc0dc89a4d65b0d71157cbc2f/AndroidManifest.xml:20:5-44
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4cd91618643cd579bdcf1e632dc38e71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.timigod:android-chat-ui:v0.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4cd91618643cd579bdcf1e632dc38e71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ce1f2209e33349be3221b5b66ccef014/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ce1f2209e33349be3221b5b66ccef014/AndroidManifest.xml:20:5-44
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e62d9b3e8764b2682e63d441b9076eac/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.tajchert:waitingdots:0.2.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e62d9b3e8764b2682e63d441b9076eac/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e31dbf7d8d6ba052329cbb99ede19e12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e31dbf7d8d6ba052329cbb99ede19e12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/42374ecb3c6b215c7cca6edfe3b46266/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/acquaint/.gradle/caches/transforms-2/files-2.1/42374ecb3c6b215c7cca6edfe3b46266/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/5f66b318a6335dd9e3160faa80c9aae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/5f66b318a6335dd9e3160faa80c9aae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/14e0b761751cf4f58e6f96e6a5d59f89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/14e0b761751cf4f58e6f96e6a5d59f89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ff21cec29d241fe143e3cc2de1139b21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ff21cec29d241fe143e3cc2de1139b21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b705688a1af7c74d5bfe6c87033328d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b705688a1af7c74d5bfe6c87033328d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/f8966dbc191180b66fd44e188308f687/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/f8966dbc191180b66fd44e188308f687/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b70e198fb260f6363977b1da0519968d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b70e198fb260f6363977b1da0519968d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ba3b4a5e2d204320a713610830e9c278/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ba3b4a5e2d204320a713610830e9c278/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ee34fee8b0d59022bd55caae592797aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/ee34fee8b0d59022bd55caae592797aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/bcf12381d9243ac92f9aa47dbc79a4cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/bcf12381d9243ac92f9aa47dbc79a4cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/906ab6c97a18df4747f7a503d7a7c05e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/906ab6c97a18df4747f7a503d7a7c05e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/bfbf99ba82c53d056929d89f02fdf758/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/bfbf99ba82c53d056929d89f02fdf758/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/027a2602d0f236424ec3231cbd97d306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/027a2602d0f236424ec3231cbd97d306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e0cc67c6d3277b313add82be1cabb012/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/e0cc67c6d3277b313add82be1cabb012/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/92654f165dd35c2c0058a3d232f59246/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/92654f165dd35c2c0058a3d232f59246/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/143236ffab1502aaa47afcd7348deebe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/143236ffab1502aaa47afcd7348deebe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/2701207b8369bb2e726d54d950026dce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/2701207b8369bb2e726d54d950026dce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b5c65a8150199656402210efa3cf86d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b5c65a8150199656402210efa3cf86d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/7cc2a0853b97393d8dbcee2e23ccb255/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/acquaint/.gradle/caches/transforms-2/files-2.1/7cc2a0853b97393d8dbcee2e23ccb255/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b82fc68fddd6b65d18c8c9ac2b7da3df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/b82fc68fddd6b65d18c8c9ac2b7da3df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/c8c0601d324287752ab1c9d487c8f365/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/c8c0601d324287752ab1c9d487c8f365/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/857181a4424ab7b2415d04f470f1f1af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/857181a4424ab7b2415d04f470f1f1af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/1d0f94d03864fbeddea63926ccee8356/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/1d0f94d03864fbeddea63926ccee8356/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/5a73c538905523491176ae25fea006b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/5a73c538905523491176ae25fea006b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/3371ae22972327017f36128f7f230664/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/3371ae22972327017f36128f7f230664/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/d9bacb38e1ccd8e7ea5ebb42fca69b88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/d9bacb38e1ccd8e7ea5ebb42fca69b88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4bb5919a9efe247ef1b7cbec20b1adc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/4bb5919a9efe247ef1b7cbec20b1adc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/d23b9448cea0945f4b6a215ad958adc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/d23b9448cea0945f4b6a215ad958adc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/a7a58704c15b8b7611ac38d42e27410e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/a7a58704c15b8b7611ac38d42e27410e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/88873a437043a28c22a227a5bc3fe053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/88873a437043a28c22a227a5bc3fe053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/a4e3a175ffdea8ecef850c11ee905105/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/acquaint/.gradle/caches/transforms-2/files-2.1/a4e3a175ffdea8ecef850c11ee905105/AndroidManifest.xml:20:5-44
 INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
 INJECTED from /home/acquaint/1986webdeveloper/XMPPChat/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
