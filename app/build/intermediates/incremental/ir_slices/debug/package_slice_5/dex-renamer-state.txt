@@ -1,4 +1,0 @@
-#Thu Aug 02 17:02:24 IST 2018
-base.0=/home/acquaint/Desktop/xmppDemo/app/build/intermediates/transforms/dexMerger/debug/5
-path.0=classes.dex
-renamed.0=classes.dex

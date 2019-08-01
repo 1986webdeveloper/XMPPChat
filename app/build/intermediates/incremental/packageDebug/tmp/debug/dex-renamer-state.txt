@@ -1,4 +1,0 @@
-#Thu Aug 01 12:56:27 IST 2019
-base.0=/home/acquaint/1986webdeveloper/XMPPChat/app/build/intermediates/dex/debug/mergeDexDebug/out
-path.0=classes.dex
-renamed.0=classes.dex
